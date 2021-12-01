@@ -42,7 +42,8 @@
     text-align: center;
     
     /* background-color: rgb(88, 60, 8);*/
-    background-color: rgb(152, 137, 206);
+    background-color: rgb(113, 100, 160);
+    box-shadow: 2px 3px rgb(72, 59, 121);
 } 
 .card:hover{
     /* background-color: rgb(170, 115, 12); */
@@ -185,7 +186,7 @@
  }
 
 body{
-    background-color: rgb(71, 50, 148);
+    background-color: rgb(152, 137, 206);;
 }
 .head{
     color: rgb(152, 137, 206);
