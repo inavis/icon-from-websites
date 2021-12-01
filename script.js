@@ -9,6 +9,7 @@
 
 let searchbar = document.querySelector("#searchbar");
 let content = document.querySelector(".content");
+let searchbtn = document.querySelector(".searchbtn");
 let value;
 
 
@@ -71,12 +72,19 @@ fetch(url5)
 })
 }
 
+//for error message to appear and disappaear
 function appear(value){
     document.querySelector(".message").innerHTML=value;
     document.getElementById("confirm").style.display="block";
+    document.querySelector("#searchbar").disabled=true
+    document.querySelector(".searchbtn").disabled=true
+   
 }
 function disappear(){
     document.getElementById("confirm").style.display="none";
+    searchbar.setAttribute("disabled",false);
+    document.querySelector("#searchbar").disabled=false
+    document.querySelector(".searchbtn").disabled=false
 }
 
 //card positioning
