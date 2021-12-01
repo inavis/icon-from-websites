@@ -79,5 +79,4 @@ function disappear(){
     document.getElementById("confirm").style.display="none";
 }
 
-//change heading text size
 //card positioning

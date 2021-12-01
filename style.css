@@ -34,11 +34,12 @@
     padding: 10px;
     /* margin: 5%; */
     text-align: center;
-    background-color: rgb(170, 115, 12);
+    background-color: rgb(88, 60, 8);
+    
   
 }
 .card:hover{
-    background-color: rgb(88, 60, 8);
+    background-color: rgb(170, 115, 12);
 }
 .title{
     margin: 1%;
@@ -122,6 +123,7 @@
     } #confirm{
         left: 30%;
     }
+    
 }
 @media(min-width:1001px){
     
@@ -138,6 +140,7 @@
    #confirm{
        left: 40%;
    }
+   
 }
 
 
