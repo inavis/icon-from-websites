@@ -44,6 +44,7 @@
     /* background-color: rgb(88, 60, 8);*/
     background-color: rgb(113, 100, 160);
     box-shadow: 2px 3px rgb(72, 59, 121);
+    color: black;
 } 
 .card:hover{
     /* background-color: rgb(170, 115, 12); */
@@ -53,7 +54,7 @@
     margin: 1%;
     font-weight: bold;
     /* background-color: burlywood; */
-    background-color: rgb(108, 97, 148);
+    background-color: rgb(123, 114, 156);
     border-radius: 5px;
     padding:1%;
     margin-bottom: 10px;
@@ -62,7 +63,7 @@
     border-radius: 10px;
 }
 .explanation{
-    color: gray;
+    color: black;
 }
 @media(max-width:250px){
     
