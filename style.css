@@ -61,7 +61,7 @@
     width: 60%;
     }
     .head{
-        font-size: 25px;
+        font-size: 15px;
        }
        .explanation{
         font-size: 13px;
@@ -80,7 +80,7 @@
     }
   
     .head{
-        font-size: 30px;
+        font-size: 18px;
        }
    
        .explanation{
@@ -97,7 +97,7 @@
     width: 70%;
     }
     .head{
-        font-size: 35px;
+        font-size: 24px;
        }
    
        .explanation{
@@ -115,7 +115,7 @@
     }
    
     .head{
-        font-size: 40px;
+        font-size: 30px;
        }
        .explanation{
         font-size: 16px;
@@ -130,7 +130,7 @@
     width: 80%;
     }
    .head{
-    font-size: 50px;
+    font-size: 40px;
    }
    .explanation{
        font-size: 17px;
